@@ -1,0 +1,7 @@
+theme = Nord Wave
+shell-integration-features = no-cursor
+cursor-style = block
+window-padding-x = 8
+window-padding-y = 8
+macos-titlebar-style = hidden
+# background = #212121
